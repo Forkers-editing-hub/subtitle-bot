@@ -19,7 +19,7 @@ A Simple Telegram subtitle Bot Made in Python.
 
 
 
-This project is not made of any api or third party applications. Bot is made by web scrapping. If you got any bugs feel free to contact me in [Our group](https://telegram.dog/KeralasBots)
+This project is not made of any api or third party applications. Bot is made by web scrapping. If you got any bugs feel free to contact me in [Our group](https://t.me/slbotzone)
 
 
 
@@ -33,3 +33,11 @@ This project is not made of any api or third party applications. Bot is made by 
 - Telegram Updates Channel : [update channel ](https://t.me/sl_bot_zone)
 
 # for you 
+
+[![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1)&nbsp;
+[![Telegram](https://img.shields.io/badge/slbotzone%20Team-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/slbotzone)&nbsp;
+[![Facebook](https://img.shields.io/badge/Follow%20me%20on%20Facebook-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://www.facebook.com/SL-Geek-Show-yt-103654258471929/)&nbsp;
+[![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://www.instagram.com/sl_geek_show/)&nbsp;
+[![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/youtubeslgeekshow) 
+
+<img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:100%;">
